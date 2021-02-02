@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
   While I'm off of my computer, I love spending my time playing football. 
 baseurl: "/" 
-url: "/portfolio" 
+url: "/portfolio-template" 
 twitter_username: guna_shekar02
 github_username:  GunaShekar02
 

@@ -1,13 +1,17 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Guna Shekar"
+email: gunashekherproddatoori@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a third year undergraduate student at Indian Institute of Information Technology, Gwalior, and a keen and enthusiastic developer, having worked with several technologies in the fields of Web Development, Mobile Application Development and Blockchain.
+  
+  I have extensive hands-on experience with React.js, Node.js, Express.js, MongoDB, React Native and Blockchain(Ethereum, Tezos). I hugely enjoy participating in Hackathons and being a part of developer communities, learning and sharing knowledge and skills.
+  
+  Apart from software development, I'm constantly enhancing my competence in Data Structures and Algorithms.
+
+  While I'm off of my computer, I love spending my time playing football. 
 baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "/portfolio" 
+twitter_username: guna_shekar02
+github_username:  GunaShekar02
 
 sass:
   sass_dir: _sass
